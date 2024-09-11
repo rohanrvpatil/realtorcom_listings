@@ -1,4 +1,4 @@
-<mark>This project extract real estate listings from the site [realtor.com](realtor.com) using the Hidden API method.<mark>
+<mark>This project extracts real estate listings from the site [realtor.com](realtor.com) using the Hidden API method.<mark>
 
 ## Description:
 
